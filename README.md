@@ -5,6 +5,7 @@ M-NET API
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)
 ![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frayriffy%2Fmnet-api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frayriffy%2Fmnet-api?ref=badge_shield)
 
 [![Build Status](https://img.shields.io/travis/rayriffy/mnet-api.svg?style=for-the-badge)](https://travis-ci.org/rayriffy/mnet-api)
 [![Known Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/rayriffy/mnet-api.svg?style=for-the-badge)](https://snyk.io/test/github/rayriffy/mnet-api?targetFile=package.json)
@@ -62,3 +63,6 @@ If you need help with anything, here're following methods:
 ### Create an Issue
 
 If you have something you want to discuss in detail, or have hit an issue which you believe others will also have in deployment or development of the system, [opening an issue](https://github.com/rayriffy/mnet-api/issues) is the best way to get help. It creates a permanent resource for others wishing to contribute to conversation.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frayriffy%2Fmnet-api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frayriffy%2Fmnet-api?ref=badge_large)
